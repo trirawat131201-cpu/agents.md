@@ -62,7 +62,8 @@ export default function Hero() {
             compact
             heightClass="min-h-[160px] max-h-[300px]"
             code={HERO_AGENTS_MD}
-            href="https://github.com/openai/codex/blob/main/AGENTS.md"
+            href="https://github.com/openai/code​/blob
+/main/AGENTS.md"
           />
         </div>
       </div>
